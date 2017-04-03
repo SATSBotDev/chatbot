@@ -1,0 +1,25 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Sample Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SATSBotDev/chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SATSBotDev/chatbot/issues"
+  },
+  "homepage": "https://github.com/SATSBotDev/chatbot#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.15.2",
+    "parser": "^0.1.4",
+    "request": "^2.81.0"
+  }
+}
